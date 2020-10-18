@@ -4,7 +4,9 @@ This application is open source for all people who want to learn about making th
 ![Dashboard](https://github.com/rizallk/web-inventori/blob/main/dashboard.png?raw=true)
 
 ## Important!
-Website ini bertujuan untuk memberikan edukasi untuk yang ingin mempelajari bagaimana sebuah aplikasi seperti ini bisa dibuat, dan jika kamu ingin mengembangkan lebih bagus lagi, silakan. Karena aplikasi ini bersifat open source, tidak diijinkan untuk dilakukan perjual/belikan (kecuali dengan syarat).
+Website ini bertujuan untuk memberikan edukasi/pembelajaran untuk yang ingin mempelajari bagaimana sebuah aplikasi seperti ini bisa dibuat serta digunakan, dan jika kamu ingin mengembangkan (modifikasi) lebih bagus lagi, silakan. Karena aplikasi ini bersifat open source, tidak diijinkan untuk dilakukan perjual/belikan.
+
+<b>Kamu sangat dianjurkan untuk melakukan modifikasi agar dapat mengerti dan paham sebagai contoh pembelajaran.</b>
 
 ## Features
 - 2 Role Login (Admin & Guest)
